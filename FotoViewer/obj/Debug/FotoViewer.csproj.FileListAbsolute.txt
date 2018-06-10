@@ -1,0 +1,14 @@
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\bin\Debug\FotoViewer.exe.config
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\bin\Debug\FotoViewer.exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\bin\Debug\FotoViewer.pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csprojResolveAssemblyReference.cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\MainWindow.g.cs
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\App.g.cs
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer_MarkupCompile.cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer_MarkupCompile.lref
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\MainWindow.baml
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer.g.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer.Properties.Resources.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csproj.GenerateResource.Cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer.exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\FotoViewer\FotoViewer\obj\Debug\FotoViewer.pdb
